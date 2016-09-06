@@ -50,6 +50,7 @@
             android:drawablePadding="4dp"
             android:text="@string/next_button"/>
 //test comment
+        //more comments for testing
 </LinearLayout>
 
 </LinearLayout>
