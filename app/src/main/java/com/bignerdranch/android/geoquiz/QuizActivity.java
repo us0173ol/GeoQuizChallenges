@@ -1,5 +1,5 @@
 package com.bignerdranch.android.geoquiz;
-
+//rotation not working
 import android.app.Activity;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
